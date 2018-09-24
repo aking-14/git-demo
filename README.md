@@ -1,5 +1,6 @@
 # README
 
-## Contributers
+## Contributors
+- Alice
 
 -Bob
